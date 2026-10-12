@@ -1,0 +1,87 @@
+{
+  "tui.editor.cursorLeft": [
+    "left",
+    "super+b"
+  ],
+  "tui.editor.cursorRight": [
+    "right"
+  ],
+  "tui.editor.cursorWordLeft": [
+    "alt+left"
+  ],
+  "tui.editor.cursorWordRight": [
+    "alt+right"
+  ],
+  "tui.editor.cursorLineStart": [
+    "home",
+    "alt+a"
+  ],
+  "tui.editor.cursorLineEnd": [
+    "end",
+    "alt+e"
+  ],
+  "tui.editor.jumpForward": "ctrl+]",
+  "tui.editor.jumpBackward": "ctrl+alt+]",
+  "tui.editor.deleteCharForward": [
+    "delete",
+    "alt+d"
+  ],
+  "tui.editor.deleteWordBackward": [
+    "super+w",
+    "alt+backspace"
+  ],
+  "tui.editor.deleteWordForward": "alt+delete",
+  "tui.editor.deleteToLineStart": "alt+u",
+  "tui.editor.deleteToLineEnd": "alt+k",
+  "tui.input.newLine": [
+    "shift+enter",
+    "super+j"
+  ],
+  "tui.editor.yank": "alt+y",
+  "tui.editor.yankPop": "ctrl+alt+y",
+  "tui.editor.undo": "alt+-",
+  "tui.input.copy": "alt+c",
+  "tui.select.cancel": [
+    "escape",
+    "alt+c"
+  ],
+  "app.clear": "alt+c",
+  "app.exit": "alt+d",
+  "app.suspend": "alt+z",
+  "app.editor.external": "alt+g",
+  "app.clipboard.pasteImage": "super+v",
+  "app.session.togglePath": "alt+p",
+  "app.session.toggleSort": [
+    "super+s",
+    "ctrl+s"
+  ],
+  "app.session.toggleNamedFilter": "alt+n",
+  "app.session.rename": "super+r",
+  "app.session.delete": "alt+d",
+  "app.session.deleteNoninvasive": "alt+backspace",
+  "app.model.select": "alt+l",
+  "app.model.cycleForward": "super+]",
+  "app.model.cycleBackward": "super+[",
+  "app.thinking.toggle": "super+t",
+  "app.tools.expand": "super+o",
+  "app.tree.foldOrUp": [
+    "alt+left"
+  ],
+  "app.tree.unfoldOrDown": [
+    "alt+right"
+  ],
+  "app.tree.filter.default": "alt+d",
+  "app.tree.filter.noTools": "super+t",
+  "app.tree.filter.userOnly": "alt+u",
+  "app.tree.filter.labeledOnly": "alt+l",
+  "app.tree.filter.all": "alt+a",
+  "app.tree.filter.cycleForward": "super+o",
+  "app.tree.filter.cycleBackward": "ctrl+alt+o",
+  "app.models.save": [
+    "super+s",
+    "ctrl+s"
+  ],
+  "app.models.enableAll": "alt+a",
+  "app.models.clearAll": "alt+x",
+  "app.models.toggleProvider": "alt+p"
+}

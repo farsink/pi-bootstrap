@@ -17,5 +17,6 @@
     "npm:@narumitw/pi-usage",
     "npm:@quintinshaw/pi-dynamic-workflows",
     "npm:@narumitw/pi-goal"
-  ]
+  ],
+  "theme": "nebula-pulse"
 }
