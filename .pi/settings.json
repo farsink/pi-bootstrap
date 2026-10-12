@@ -1,0 +1,21 @@
+{
+  "packages": [
+    "npm:@juicesharp/rpiv-ask-user-question",
+    "npm:@plannotator/pi-extension",
+    "npm:@tintinweb/pi-subagents",
+    "npm:@juicesharp/rpiv-todo",
+    "npm:@juicesharp/rpiv-args",
+    "npm:pi-web-access",
+    "npm:pi-mcp-adapter",
+    "npm:@juicesharp/rpiv-btw",
+    "npm:pi-autoname",
+    "npm:@dietrichgebert/ponytail",
+    "npm:pi-chrono",
+    "npm:@ff-labs/pi-fff",
+    "npm:@plentz/ding",
+    "npm:pi-agent-browser-native",
+    "npm:@narumitw/pi-usage",
+    "npm:@quintinshaw/pi-dynamic-workflows",
+    "npm:@narumitw/pi-goal"
+  ]
+}

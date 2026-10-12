@@ -1,0 +1,13 @@
+# Secrets and credentials
+auth.json
+.pi/auth.json
+.env
+.env.*
+
+# Pi sessions
+sessions/
+.pi/sessions/
+*.jsonl
+
+# Local files
+.DS_Store
